@@ -14,8 +14,12 @@
 ***
 [HR 링크](https://cafe.naver.com/kndjang)
 
-#테이블
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+| 왼쪽 | 가운데 | 오른쪽 |
+|:---- |:----:|------:|
+Date1| Data2| Data3|
