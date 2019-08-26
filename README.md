@@ -12,4 +12,4 @@
 ---
 ![이미지](https://github.com/SEO1991/eHR99/blob/master/image1.jpg)
 ***
-[HR](https://https://cafe.naver.com/kndjang)
+[HR 링크](https://cafe.naver.com/kndjang)
