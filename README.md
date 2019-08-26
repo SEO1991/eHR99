@@ -10,6 +10,6 @@
 1. 아이템3
 
 ---
-[이미지] (https://github.com/SEO1991/eHR99/blob/master/image1.jpg)
+![이미지] (https://github.com/SEO1991/eHR99/blob/master/image1.jpg)
 ***
 [HR] (https://https://cafe.naver.com/kndjang)
